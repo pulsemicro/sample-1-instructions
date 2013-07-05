@@ -33,7 +33,7 @@ ZIP up the entire project and include it with your resume.
 
 ### What is a template?
 
-A template can be anything you want it to be, as long as it has something that can be modified by the user.  
+A template can be anything you want it to be, as long as it has something that can be modified by the user. Each template should have a unique set of customizable fields.
 
 A simple example:
 
