@@ -39,9 +39,9 @@ A simple example:
 
 Allow your user to select from "Template 1", "Template 2", or "Template 3".
 
-* Template 1 includes customizable options such as "First Name" and "Last Name"
-* Template 2 includes customizable options such as "Home Town"
-* Template 3 includes customizable options such as "Spouse's Name", "Kid's Name #1", "Kid's Name #2", etc.
+* Template 1 includes customizable options such as "First Name" and "Last Name", see [sample screenshot](https://github.com/pulsemicro/mvc-sample-1-instructions/blob/master/MvcSample1-Template1.PNG)
+* Template 2 includes customizable options such as "Home Town", see [sample screenshot](https://github.com/pulsemicro/mvc-sample-1-instructions/blob/master/MvcSample1-Template2.PNG)
+* Template 3 includes customizable options such as "Spouse's Name", "Kid's Name #1", "Kid's Name #2", etc., see [sample screenshot](https://github.com/pulsemicro/mvc-sample-1-instructions/blob/master/MvcSample1-Template3.PNG)
 
 ### Can I submit my resume without a sample project?
 
@@ -54,3 +54,7 @@ No. Our projects will be built using MVC4, so we are looking for someone well ve
 ### Can I post by sample application somewhere (such as Microsoft Azure) for you to see?
 
 You can, and this will help us when executing your sample application. But we still want to see the source code.
+
+### How long should this project take?
+
+We wrote an acceptable project with the minimum requirements (no extras) in **61 minutes**. We used Visual Studio 2012, ASP.NET MVC4, and [KnockoutJS](http://knockoutjs.com/).  It took an additional 2 minutes to add "Realtime Preview" (extra option #1).
