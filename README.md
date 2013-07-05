@@ -39,9 +39,9 @@ A simple example:
 
 Allow your user to select from "Template 1", "Template 2", or "Template 3".
 
-* Template 1 includes customizable options such as "First Name" and "Last Name", see [sample screenshot](https://github.com/pulsemicro/mvc-sample-1-instructions/blob/master/MvcSample1-Template1.PNG)
-* Template 2 includes customizable options such as "Home Town", see [sample screenshot](https://github.com/pulsemicro/mvc-sample-1-instructions/blob/master/MvcSample1-Template2.PNG)
-* Template 3 includes customizable options such as "Spouse's Name", "Kid's Name #1", "Kid's Name #2", etc., see [sample screenshot](https://github.com/pulsemicro/mvc-sample-1-instructions/blob/master/MvcSample1-Template3.PNG)
+* Template 1 includes customizable options such as "First Name" and "Last Name", see [sample screenshot](https://github.com/pulsemicro/mvc-sample-1-instructions/raw/master/MvcSample1-Template1.PNG)
+* Template 2 includes customizable options such as "Home Town", see [sample screenshot](https://github.com/pulsemicro/mvc-sample-1-instructions/raw/master/MvcSample1-Template2.PNG)
+* Template 3 includes customizable options such as "Spouse's Name", "Kid's Name #1", "Kid's Name #2", etc., see [sample screenshot](https://github.com/pulsemicro/mvc-sample-1-instructions/raw/master/MvcSample1-Template3.PNG)
 
 ### Can I submit my resume without a sample project?
 
