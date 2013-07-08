@@ -15,7 +15,7 @@ Using ASP.NET MVC 3 or 4, C#, and HTML5, create a web application that allows:
 
 Include a readme.txt with any installation instructions and extra notes.
 
-ZIP up the entire project and include it with your resume.
+ZIP up the entire project and include it with your resume, or post it somewhere for download and include download instructions.
 
 ### Additional options for bonus points:
 
@@ -51,7 +51,7 @@ You can, but including a sample project will have your resume looked at faster.
 
 No. Our projects will be built using MVC4, so we are looking for someone well versed in ASP.NET MVC.
 
-### Can I post by sample application somewhere (such as Microsoft Azure) for you to see?
+### Can I post my sample application somewhere (such as Microsoft Azure) for you to see?
 
 You can, and this will help us when executing your sample application. But we still want to see the source code.
 
