@@ -45,7 +45,7 @@ Allow your user to select from "Template 1", "Template 2", or "Template 3".
 
 ### Can I submit my resume without a sample project?
 
-You can, but including a sample project will have your resume looked at faster.
+No. All resumes must be accompanied by a sample project that demonstrates your abilities.
 
 ### Can I use other technologies instead of ASP.NET MVC, such as ASP.NET Web Forms, PHP, or Ruby?
 
