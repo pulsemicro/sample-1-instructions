@@ -19,8 +19,8 @@ ZIP up the entire project and include it with your resume, or post it somewhere 
 
 ## Requirements
 
-* Please use Visual Studio 2012 or 2013. For this purpose, the free Express editions are as good as the enterprise editions. Visual Studio Express 2013 can be downloaded from [here](http://www.visualstudio.com/downloads/download-visual-studio-vs).
-* Use of Flash or Silverlight is not permitted. The application must be 100% browser-based (web server assisted) using HTML/HTML5. It must run in Internet Explorer 9/10/11 and Google Chrome.
+* Please use Visual Studio 2015 or 2017. For this purpose, the free Community editions are as good as the enterprise editions. Visual Studio Community 2017 can be downloaded from [here](https://www.visualstudio.com/vs/visual-studio-express/). Visual Studio Express 2015 can be downloaded from [here](https://www.visualstudio.com/post-download-vs/?sku=xweb&clcid=0x409&telem=ga).
+* Use of Flash or Silverlight is not permitted. The application must be 100% browser-based (web server assisted) using HTML/HTML5. It must run in Internet Explorer 9/10/11 and/or Google Chrome and/or Mozilla Firefox. For Chrome and Firefox they should be up to date using the latest version.
 * Use of Javascript libraries is permitted (such as jQuery, KnockoutJS, SignalR, etc.), even encouraged.
 * Use of 3rd party libraries is permitted. Please document what 3rd party libraries were used so we know what is yours and what is not.
 
