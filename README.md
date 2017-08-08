@@ -14,6 +14,7 @@ ZIP up the entire project and include it with your resume, or post it somewhere 
 
 ### Additional options for bonus points:
 
+* A View (or Views) that list the final data that was stored to the persistent storage of choice
 * "Realtime" visual updating of the template based on the changed properties
 * Use [SignalR](https://github.com/SignalR/SignalR) for *anything*
 
