@@ -1,28 +1,28 @@
-# Pulse Microsystems MVC Sample Program #1 Instructions
+# Tajima Software Sample Program Instructions
 
 ## Instructions
 
-Using ASP.NET MVC 3, 4 or 5, C#, and HTML5, create a web application that allows:
+Using .NET 8 as a backend for a Web API project and any front-end framework of your choice, create a web application that allows:
 
 * Selection of a "template".
 * Changing properties of that "template".
 * Saving the final data (template identifier + changed properties + user information) to persistent storage (file, database, etc.)
 
-Include a readme.txt with any installation instructions and extra notes.
+Include a readme document with any building instructions and/or installation instructions and extra notes for anything else required if applicable.
 
 ZIP up the entire project and include it with your resume, or post it somewhere for download and include download instructions.
 
 ### Additional options for bonus points:
 
-* A View (or Views) that list the final data that was stored to the persistent storage of choice
+* A page (or pages) that list the final data that was stored to the persistent storage of choice
 * "Realtime" visual updating of the template based on the changed properties
-* Use [SignalR](https://github.com/SignalR/SignalR) for *anything*
+* Use [SignalR](https://dotnet.microsoft.com/en-us/apps/aspnet/signalr) or another protocol of your choice for *anything*
 
 ## Requirements
 
-* Please use Visual Studio 2015 or 2017. For this purpose, the free Community editions are as good as the enterprise editions. Visual Studio Community 2017 can be downloaded from [here](https://www.visualstudio.com/vs/visual-studio-express/). Visual Studio Express 2015 can be downloaded from [here](https://www.visualstudio.com/post-download-vs/?sku=xweb&clcid=0x409&telem=ga).
-* Use of Flash or Silverlight is not permitted. The application must be 100% browser-based (web server assisted) using HTML/HTML5. It must run in Internet Explorer 9/10/11 and/or Google Chrome and/or Mozilla Firefox. For Chrome and Firefox they should be up to date using the latest version.
-* Use of Javascript libraries is permitted (such as jQuery, KnockoutJS, SignalR, etc.), even encouraged.
+* Please use Visual Studio 2022 Community or Visual Studio Code. For this purpose, the free Community editions are as good as the enterprise editions. Visual Studio Community 2022 can be downloaded from [here](https://visualstudio.microsoft.com/vs/community/). Visual Studio Code can be downloaded from [here](https://code.visualstudio.com/Download).
+* The front-end application must be 100% browser-based (back end server assisted). It must run in Google Chrome and/or Mozilla Firefox and/or Edge. For Chrome, Firefox, and Edge, they should be up to date using the latest version.
+* Use of Javascript libraries is permitted (such as jQuery, React, Vue, KnockoutJS, etc.), even encouraged.
 * Use of 3rd party libraries is permitted. Please document what 3rd party libraries were used so we know what is yours and what is not.
 
 ## FAQ
@@ -38,11 +38,11 @@ Allow your user to select from "Template 1", "Template 2", or "Template 3".
 * Template 1 includes customizable options such as "First Name" and "Last Name", see [sample screenshot](https://github.com/pulsemicro/mvc-sample-1-instructions/raw/master/MvcSample1-Template1.PNG)
 * Template 2 includes customizable options such as "Home Town", see [sample screenshot](https://github.com/pulsemicro/mvc-sample-1-instructions/raw/master/MvcSample1-Template2.PNG)
 * Template 3 includes customizable options such as "Spouse's Name", "Kid's Name #1", "Kid's Name #2", etc., see [sample screenshot](https://github.com/pulsemicro/mvc-sample-1-instructions/raw/master/MvcSample1-Template3.PNG)
-  * Note: In the sample file there is a "Your Name" and "Your Address" field. Thses are just recommendations and could be anything you choose.
+  * Note: In the sample file there is a "Your Name" and "Your Address" field. These are just recommendations and could be anything you choose.
 
-### Can I use other technologies instead of ASP.NET MVC, such as ASP.NET Web Forms, PHP, or Ruby?
+### Can I use other technologies instead of .NET 8 and Javascript frameworks such as an MVC based solution or, PHP, or Ruby, Python?
 
-No. Our projects will be built using ASP.NET MVC, so we are looking for someone well versed in ASP.NET MVC.
+While these are acceptable alternatives, we would like this to be built using .NET 8. So, we are looking for someone well versed in C# and .NET. If the entire solution is MVC based, we will not overlook this as a solution to the problem. There are options to create an MVC based front end and backend in .NET 8.
 
 ### Can I post my sample application somewhere (such as Microsoft Azure) for you to see?
 
