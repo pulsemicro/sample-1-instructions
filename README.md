@@ -44,10 +44,7 @@ Allow your user to select from "Template 1", "Template 2", or "Template 3".
 
 While these are acceptable alternatives, we would like this to be built using .NET 8. So, we are looking for someone well versed in C# and .NET. If the entire solution is MVC based, we will not overlook this as a solution to the problem. There are options to create an MVC based front end and backend in .NET 8.
 
-### Can I post my sample application somewhere (such as Microsoft Azure) for you to see?
+### Can I post my sample application somewhere in a Cloud hosted environment for you to see?
 
 You can, and this will help us when executing your sample application. But we still want to see the source code.
 
-### How long should this project take?
-
-We wrote an acceptable project with the minimum requirements (no extras) in **61 minutes**. We used Visual Studio 2012, ASP.NET MVC4, and [KnockoutJS](http://knockoutjs.com/).  It took an additional 2 minutes to add "Realtime Preview" (extra option #1).
