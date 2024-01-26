@@ -35,19 +35,16 @@ A simple example:
 
 Allow your user to select from "Template 1", "Template 2", or "Template 3".
 
-* Template 1 includes customizable options such as "First Name" and "Last Name", see [sample screenshot](https://github.com/pulsemicro/mvc-sample-1-instructions/raw/master/MvcSample1-Template1.PNG)
-* Template 2 includes customizable options such as "Home Town", see [sample screenshot](https://github.com/pulsemicro/mvc-sample-1-instructions/raw/master/MvcSample1-Template2.PNG)
-* Template 3 includes customizable options such as "Spouse's Name", "Kid's Name #1", "Kid's Name #2", etc., see [sample screenshot](https://github.com/pulsemicro/mvc-sample-1-instructions/raw/master/MvcSample1-Template3.PNG)
+* Template 1 includes customizable options such as "First Name" and "Last Name", see [sample screenshot](https://github.com/pulsemicro/mvc-sample-1-instructions/raw/master/Sample1-Template1.PNG)
+* Template 2 includes customizable options such as "Home Town", see [sample screenshot](https://github.com/pulsemicro/mvc-sample-1-instructions/raw/master/Sample1-Template2.PNG)
+* Template 3 includes customizable options such as "Spouse's Name", "Kid's Name #1", "Kid's Name #2", etc., see [sample screenshot](https://github.com/pulsemicro/mvc-sample-1-instructions/raw/master/Sample1-Template3.PNG)
   * Note: In the sample file there is a "Your Name" and "Your Address" field. These are just recommendations and could be anything you choose.
 
-### Can I use other technologies instead of .NET 8 and Javascript frameworks such as an MVC based solution or, PHP, or Ruby, Python?
+### Can I use other technologies instead of .NET 8 and Javascript frameworks such as an MVC design patterned solution or, PHP, or Ruby, Python?
 
-While these are acceptable alternatives, we would like this to be built using .NET 8. So, we are looking for someone well versed in C# and .NET. If the entire solution is MVC based, we will not overlook this as a solution to the problem. There are options to create an MVC based front end and backend in .NET 8.
+While these are acceptable alternatives, we would like this to be built using .NET 8. So, we are looking for someone well versed in C# and .NET. If the entire solution is based on the MVC design pattern, we will not overlook this as a solution to the problem. There are options to create an MVC solution that includes a front end and backend result in .NET 8.
 
 ### Can I post my sample application somewhere (such as Microsoft Azure) for you to see?
 
 You can, and this will help us when executing your sample application. But we still want to see the source code.
 
-### How long should this project take?
-
-We wrote an acceptable project with the minimum requirements (no extras) in **61 minutes**. We used Visual Studio 2012, ASP.NET MVC4, and [KnockoutJS](http://knockoutjs.com/).  It took an additional 2 minutes to add "Realtime Preview" (extra option #1).
