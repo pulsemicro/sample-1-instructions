@@ -40,11 +40,11 @@ Allow your user to select from "Template 1", "Template 2", or "Template 3".
 * Template 3 includes customizable options such as "Spouse's Name", "Kid's Name #1", "Kid's Name #2", etc., see [sample screenshot](https://github.com/pulsemicro/mvc-sample-1-instructions/raw/master/MvcSample1-Template3.PNG)
   * Note: In the sample file there is a "Your Name" and "Your Address" field. These are just recommendations and could be anything you choose.
 
-### Can I use other technologies instead of .NET 8 and Javascript frameworks such as an MVC based solution or, PHP, or Ruby, Python?
+### Can I use other technologies instead of .NET 8 for the backend and Javascript frameworks for the frontend such as PHP, or Ruby, Python?
 
-While these are acceptable alternatives, we would like this to be built using .NET 8. So, we are looking for someone well versed in C# and .NET. If the entire solution is MVC based, we will not overlook this as a solution to the problem. There are options to create an MVC based front end and backend in .NET 8.
+While these are acceptable alternatives, we would like this to be built using .NET 8. So, we are looking for someone well versed in C# and .NET. If the entire solution is C# MVC based, we will not overlook this as a solution to the problem. There are options to create an MVC based front end and backend in .NET 8. An ASP.NET Core Web App (Model-View-Controller) that also includes an ASP.NET Core Web API project.
 
-### Can I post my sample application somewhere in a Cloud hosted environment for you to see?
+### Can I post my sample application somewhere in a Cloud hosted environment (Google, Azure, etc) for you to see?
 
 You can, and this will help us when executing your sample application. But we still want to see the source code.
 
