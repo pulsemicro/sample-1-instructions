@@ -44,7 +44,7 @@ Allow your user to select from "Template 1", "Template 2", or "Template 3".
 
 While these are acceptable alternatives, we would like this to be built using .NET 8. So, we are looking for someone well versed in C# and .NET. If the entire solution is C# MVC based, we will not overlook this as a solution to the problem. There are options to create an MVC based front end and backend in .NET 8. An ASP.NET Core Web App (Model-View-Controller) that also includes an ASP.NET Core Web API project.
 
-### Can I post my sample application somewhere in a Cloud hosted environment (Google, Azure, etc) for you to see?
+### Can I post my sample application somewhere in the Cloud (Google, Azure, etc) for you to see?
 
 You can, and this will help us when executing your sample application. But we still want to see the source code.
 
